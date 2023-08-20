@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **mana.hashmani.mh@gmail.com**
 
+  ![](https://komarev.com/ghpvc/?username=MustafaHashmani&style=for-the-badge)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mustafahashmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mustafa04_ai" height="30" width="40" /></a>
