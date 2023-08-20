@@ -35,4 +35,9 @@
 ### 📕Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unveiling the Art of Sync: Mastering Fetching and Pulling in Git](https://mustafahashmani.hashnode.dev/unveiling-the-art-of-sync-mastering-fetching-and-pulling-in-git)
+- [Undoing Changes and Time Travelling in Git](https://mustafahashmani.hashnode.dev/undoing-changes-and-time-travelling-in-git)
+- [Comparing Changes with Git Diff](https://mustafahashmani.hashnode.dev/comparing-changes-with-git-diff)
+- [A Guide to Working with Branches and Merging Branches](https://mustafahashmani.hashnode.dev/a-guide-to-working-with-branches-and-merging-branches)
+- [Basics of Git: Adding and Committing](https://mustafahashmani.hashnode.dev/basics-of-git-adding-and-committing)
 <!-- BLOG-POST-LIST:END -->
