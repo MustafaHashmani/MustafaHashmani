@@ -34,5 +34,10 @@
 <details>
 <summary> 📖Latest Blog Posts</summary>
 <!-- BLOG-POST-LIST:START -->
+- [Unveiling the Art of Sync: Mastering Fetching and Pulling in Git](https://dev.to/mustafahashmani/unveiling-the-art-of-sync-mastering-fetching-and-pulling-in-git-18g5)
+- [Undoing Changes and Time Travelling in Git](https://dev.to/mustafahashmani/undoing-changes-and-time-travelling-2fd1)
+- [Comparing Changes with Git Diff](https://dev.to/mustafahashmani/comparing-changes-with-git-diff-1634)
+- [An Introduction to Stashing in Git](https://dev.to/mustafahashmani/an-introduction-to-stashing-in-git-1a23)
+- [A Guide to Working with Branches and Merging Branches](https://dev.to/mustafahashmani/a-guide-to-working-with-branches-and-merging-branches-90a)
 <!-- BLOG-POST-LIST:END -->
 </details>
