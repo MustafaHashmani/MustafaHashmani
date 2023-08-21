@@ -64,7 +64,7 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="mustafahashmani's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mustafahashmani&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
-# 🚧 Todoist Stats
 
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
