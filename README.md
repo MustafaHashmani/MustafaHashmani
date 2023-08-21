@@ -65,7 +65,7 @@
 
 </details>
 
-📊 **Weekly development breakdown**
+⚒️ **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
 ```txt
