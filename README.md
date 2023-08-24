@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React,Nextjs and Typescript**
 
-- 📝 I regularly write articles on [https://dev.to/mana041001](https://dev.to/mana041001)
+- 📝 I regularly write articles on [https://dev.to/mustafahashmani](https://dev.to/mustafahashmani)
 
 - 💬 Ask me about **Machine Learning, Tensorflow and Git**
 
