@@ -21,5 +21,4 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_LANGUAGE: "True"
-          SHOW_LANGUAGE
           
