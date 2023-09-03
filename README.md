@@ -69,15 +69,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2023 - To: 02 September 2023
+From: 26 August 2023 - To: 02 September 2023
 
-Total Time: 5 hrs 40 mins
+Total Time: 0 secs
 
-PowerShell   1 hr 39 mins    ███████▒░░░░░░░░░░░░░░░░░   29.22 %
-Markdown     1 hr 21 mins    ██████░░░░░░░░░░░░░░░░░░░   23.98 %
-Text         58 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.21 %
-YAML         29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
-JSON         27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
