@@ -69,9 +69,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TSQL    8 mins          ████████████▓░░░░░░░░░░░░   51.07 %
-Ezhil   7 mins          ███████████▓░░░░░░░░░░░░░   46.05 %
-Other   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
