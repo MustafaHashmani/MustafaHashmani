@@ -67,9 +67,76 @@
 
 ⚒️ **Weekly Development Breakdown**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2031%20mins-blue)
 
-```txt
-No activity tracked
+![Profile Views](http://img.shields.io/badge/Profile%20Views-326-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 555 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 371 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                807 commits         █████████░░░░░░░░░░░░░░░░   34.56 % 
+🌆 Daytime                665 commits         ███████░░░░░░░░░░░░░░░░░░   28.48 % 
+🌃 Evening                505 commits         █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
+🌙 Night                  358 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   307 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Tuesday                  143 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Wednesday                697 commits         ███████░░░░░░░░░░░░░░░░░░   29.85 % 
+Thursday                 168 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Friday                   413 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Saturday                 396 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Sunday                   211 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Karachi
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in C** 
+
+```text
+C                        5 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+Python                   3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
+Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/MustafaHashmani/MustafaHashmani/main/assets/bar_graph.png)
+
+
+ Last Updated on 03/09/2023 07:11:12 UTC
 <!--END_SECTION:waka-->
