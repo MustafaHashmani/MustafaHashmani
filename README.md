@@ -65,7 +65,7 @@
 
 </details>
 
-⚒️ **Weekly Development Breakdown**
+⚒️ **WakaTime Stats Breakdown**
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2039%20mins-blue)
 
