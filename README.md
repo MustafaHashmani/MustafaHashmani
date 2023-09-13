@@ -110,7 +110,7 @@ Sunday                   216 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Python                   1 hr 21 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -126,5 +126,5 @@ HTML                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 12/09/2023 18:32:42 UTC
+ Last Updated on 13/09/2023 18:33:11 UTC
 <!--END_SECTION:waka-->
