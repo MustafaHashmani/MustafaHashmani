@@ -67,13 +67,13 @@
 
 ⚒️ **WakaTime Stats Breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 581 Bytes Used in GitHub's Storage 
+> 📦 582 Bytes Used in GitHub's Storage 
  > 
 > 🏆 359 Contributions in the Year 2023
  > 
@@ -110,11 +110,10 @@ Sunday                   216 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Assembly                 28 mins             ████████░░░░░░░░░░░░░░░░░   31.48 % 
-PHP                      20 mins             ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
-Prolog                   19 mins             █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-Perl                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Python                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+PHP                      20 mins             ███████████████░░░░░░░░░░   60.63 % 
+Perl                     10 mins             ████████░░░░░░░░░░░░░░░░░   32.39 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 
 **I Mostly Code in Python** 
@@ -130,5 +129,5 @@ HTML                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 18/10/2023 18:35:13 UTC
+ Last Updated on 19/10/2023 18:34:38 UTC
 <!--END_SECTION:waka-->
