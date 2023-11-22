@@ -67,7 +67,7 @@
 
 ⚒️ **WakaTime Stats Breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2025%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
@@ -110,7 +110,9 @@ Sunday                   237 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Python                   17 mins             █████████████████████████   100.00 % 
+Python                   39 mins             ████████████████████████░   96.44 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 **I Mostly Code in Python** 
@@ -126,5 +128,5 @@ HTML                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 21/11/2023 18:36:05 UTC
+ Last Updated on 22/11/2023 18:33:48 UTC
 <!--END_SECTION:waka-->
