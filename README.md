@@ -73,7 +73,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 562 Bytes Used in GitHub's Storage 
+> 📦 563 Bytes Used in GitHub's Storage 
  > 
 > 🏆 388 Contributions in the Year 2023
  > 
@@ -110,8 +110,7 @@ Sunday                   237 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Python                   10 mins             █████████████████████████   99.66 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Python                   6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -127,5 +126,5 @@ HTML                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 28/11/2023 18:34:49 UTC
+ Last Updated on 29/11/2023 18:33:15 UTC
 <!--END_SECTION:waka-->
