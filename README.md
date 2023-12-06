@@ -67,13 +67,11 @@
 
 ⚒️ **WakaTime Stats Breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2035%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 560 Bytes Used in GitHub's Storage 
+> 📦 561 Bytes Used in GitHub's Storage 
  > 
 > 🏆 388 Contributions in the Year 2023
  > 
@@ -126,5 +124,5 @@ HTML                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 05/12/2023 18:33:55 UTC
+ Last Updated on 06/12/2023 18:34:54 UTC
 <!--END_SECTION:waka-->
