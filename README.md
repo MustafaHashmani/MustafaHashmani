@@ -19,7 +19,7 @@
 <a href="https://kaggle.com/mustafahashmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mustafahashmani" height="30" width="40" /></a>
 <a href="https://hashnode.com/@mustafahashmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mustafahashmani" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mustafahashmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mustafahashmani" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/mustafahashmani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mustafahashmani/" height="30" width="40" /></a>
+<a href="https://leetcode.com/mustafahashmani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mustafahashmani/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mustafahashmani/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mustafahashmani/profile" height="30" width="40" /></a>
 </p>
 
