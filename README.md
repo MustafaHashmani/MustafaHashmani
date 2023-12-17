@@ -67,13 +67,13 @@
 
 ⚒️ **WakaTime Stats Breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 569 Bytes Used in GitHub's Storage 
+> 📦 570 Bytes Used in GitHub's Storage 
  > 
 > 🏆 389 Contributions in the Year 2023
  > 
@@ -110,8 +110,8 @@ Sunday                   239 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Python                   8 hrs 49 mins       ████████████████████████░   94.80 % 
-Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+Python                   8 hrs 44 mins       ████████████████████████░   94.77 % 
+Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -128,5 +128,5 @@ HTML                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 16/12/2023 18:32:54 UTC
+ Last Updated on 17/12/2023 18:33:46 UTC
 <!--END_SECTION:waka-->
