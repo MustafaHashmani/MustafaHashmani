@@ -131,4 +131,4 @@ HTML                     1 repo              ███░░░░░░░░�
  Last Updated on 09/01/2024 18:32:22 UTC
 <!--END_SECTION:waka-->
 ## Github Trophies 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=mustafahashmani&margin-w=15&margin-h=15&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mustafahashmani&margin-w=15&margin-h=15&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
