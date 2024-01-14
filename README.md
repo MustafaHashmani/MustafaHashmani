@@ -71,7 +71,7 @@
 
 ⚒️ **WakaTime Stats Breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2030%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
@@ -114,9 +114,11 @@ Sunday                   235 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Python                   1 hr 59 mins        ████████████████░░░░░░░░░   65.12 % 
-Markdown                 1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   34.08 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Python                   6 hrs 35 mins       █████████████████████░░░░   85.74 % 
+Markdown                 58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 **I Mostly Code in Python** 
@@ -132,7 +134,7 @@ HTML                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 13/01/2024 18:32:41 UTC
+ Last Updated on 14/01/2024 18:32:27 UTC
 <!--END_SECTION:waka-->
 ## Github Trophies 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=mustafahashmani&margin-w=15&margin-h=15&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
