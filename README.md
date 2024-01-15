@@ -136,5 +136,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
  Last Updated on 15/01/2024 15:19:04 UTC
 <!--END_SECTION:waka-->
+<p align="center"><img src="https://wakatime.com/share/@MustafaHashmani/2fc0ea0c-6f8c-4e22-88a1-a015f6545ba2.svg" height=400> </p>
+
 ## Github Trophies 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=mustafahashmani&margin-w=15&margin-h=15&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
