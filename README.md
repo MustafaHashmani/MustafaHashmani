@@ -71,7 +71,7 @@
 
 ⚒️ **WakaTime Stats Breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
@@ -114,9 +114,9 @@ Sunday                   235 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Python                   5 hrs 17 mins       ████████████████████████░   97.47 % 
-Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Python                   6 hrs 41 mins       ████████████████████████░   97.93 % 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 
 **I Mostly Code in Python** 
@@ -132,7 +132,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/03/2024 18:33:35 UTC
+ Last Updated on 11/03/2024 18:33:19 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img src="https://wakatime.com/share/@MustafaHashmani/2fc0ea0c-6f8c-4e22-88a1-a015f6545ba2.svg" height=400> </p>
 
