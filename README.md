@@ -112,8 +112,7 @@ Sunday                   235 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████░░░░░░░░░░░░   53.63 % 
-Other                    0 secs              ████████████░░░░░░░░░░░░░   46.37 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -129,7 +128,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/04/2024 18:33:02 UTC
+ Last Updated on 22/04/2024 18:33:22 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img src="https://wakatime.com/share/@MustafaHashmani/2fc0ea0c-6f8c-4e22-88a1-a015f6545ba2.svg" height=400> </p>
 
