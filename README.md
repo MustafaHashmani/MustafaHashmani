@@ -79,7 +79,7 @@
 
 > 📦 2.2 kB Used in GitHub's Storage 
  > 
-> 🏆 42 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,6 +87,36 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                817 commits         █████████░░░░░░░░░░░░░░░░   34.13 % 
+🌆 Daytime                688 commits         ███████░░░░░░░░░░░░░░░░░░   28.74 % 
+🌃 Evening                535 commits         ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+🌙 Night                  354 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Tuesday                  159 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Wednesday                703 commits         ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+Thursday                 166 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Friday                   425 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Saturday                 406 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Sunday                   235 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Karachi
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -100,7 +130,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2024 18:36:43 UTC
+ Last Updated on 16/06/2024 18:37:19 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img src="https://wakatime.com/share/@MustafaHashmani/2fc0ea0c-6f8c-4e22-88a1-a015f6545ba2.svg" height=400> </p>
 
