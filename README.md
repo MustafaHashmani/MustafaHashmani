@@ -71,13 +71,15 @@
 
 ⚒️ **WakaTime Stats Breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2033%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 42 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -130,7 +132,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/07/2024 18:38:44 UTC
+ Last Updated on 06/07/2024 18:35:52 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img src="https://wakatime.com/share/@MustafaHashmani/2fc0ea0c-6f8c-4e22-88a1-a015f6545ba2.svg" height=400> </p>
 
