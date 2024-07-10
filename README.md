@@ -79,6 +79,8 @@
 
 > 📦 2.2 kB Used in GitHub's Storage 
  > 
+> 🏆 42 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -112,9 +114,8 @@ Sunday                   235 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-PowerShell               33 mins             ██████████████░░░░░░░░░░░   56.02 % 
-Bash                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
-JSON                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+JSON                     12 mins             █████████████░░░░░░░░░░░░   51.05 % 
+PowerShell               11 mins             ████████████░░░░░░░░░░░░░   48.95 % 
 ```
 
 **I Mostly Code in Python** 
@@ -130,7 +131,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/07/2024 18:38:59 UTC
+ Last Updated on 10/07/2024 18:40:40 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img src="https://wakatime.com/share/@MustafaHashmani/2fc0ea0c-6f8c-4e22-88a1-a015f6545ba2.svg" height=400> </p>
 
