@@ -112,7 +112,7 @@ Sunday                   235 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Python                   1 hr 10 mins        █████████████████████████   100.00 % 
+Python                   2 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -128,7 +128,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2024 18:42:58 UTC
+ Last Updated on 17/10/2024 18:42:31 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img src="https://wakatime.com/share/@MustafaHashmani/2fc0ea0c-6f8c-4e22-88a1-a015f6545ba2.svg" height=400> </p>
 
