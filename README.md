@@ -112,7 +112,7 @@ Sunday                   235 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Prolog                   2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -128,7 +128,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2024 18:40:17 UTC
+ Last Updated on 28/10/2024 18:43:19 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img src="https://wakatime.com/share/@MustafaHashmani/2fc0ea0c-6f8c-4e22-88a1-a015f6545ba2.svg" height=400> </p>
 
