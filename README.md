@@ -71,7 +71,7 @@
 
 ⚒️ **WakaTime Stats Breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
@@ -112,8 +112,8 @@ Sunday                   235 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Prolog                   5 hrs 18 mins       █████████████████████████   99.00 % 
-Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Prolog                   5 hrs 19 mins       █████████████████████████   99.00 % 
+Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
@@ -130,7 +130,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2024 18:42:30 UTC
+ Last Updated on 02/11/2024 18:39:52 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img src="https://wakatime.com/share/@MustafaHashmani/2fc0ea0c-6f8c-4e22-88a1-a015f6545ba2.svg" height=400> </p>
 
