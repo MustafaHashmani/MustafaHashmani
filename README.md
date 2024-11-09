@@ -112,8 +112,8 @@ Sunday                   235 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Prolog                   5 hrs 43 mins       ██████████████████████░░░   86.70 % 
-Other                    52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Prolog                   5 hrs 42 mins       ██████████████████████░░░   86.67 % 
+Other                    52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 ```
 
 **I Mostly Code in Python** 
@@ -129,7 +129,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2024 18:41:28 UTC
+ Last Updated on 09/11/2024 18:38:59 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img src="https://wakatime.com/share/@MustafaHashmani/2fc0ea0c-6f8c-4e22-88a1-a015f6545ba2.svg" height=400> </p>
 
