@@ -79,6 +79,8 @@
 
 > 📦 2.2 kB Used in GitHub's Storage 
  > 
+> 🏆 43 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -112,8 +114,8 @@ Sunday                   235 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Prolog                   5 hrs 42 mins       ██████████████████████░░░   86.67 % 
-Other                    52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Prolog                   2 hrs 37 mins       ███████████████████████░░   91.82 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
 ```
 
 **I Mostly Code in Python** 
@@ -129,7 +131,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2024 18:38:59 UTC
+ Last Updated on 10/11/2024 18:39:07 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img src="https://wakatime.com/share/@MustafaHashmani/2fc0ea0c-6f8c-4e22-88a1-a015f6545ba2.svg" height=400> </p>
 
