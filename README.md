@@ -79,8 +79,6 @@
 
 > 📦 2.3 kB Used in GitHub's Storage 
  > 
-> 🏆 45 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -114,8 +112,8 @@ Sunday                   235 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Python                   2 hrs 2 mins        ████████████████████████░   94.60 % 
-CSV                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Python                   1 hr 51 mins        ████████████████████████░   94.08 % 
+CSV                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 ```
 
 **I Mostly Code in Python** 
@@ -131,7 +129,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2024 18:42:12 UTC
+ Last Updated on 01/12/2024 18:42:23 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img src="https://wakatime.com/share/@MustafaHashmani/2fc0ea0c-6f8c-4e22-88a1-a015f6545ba2.svg" height=400> </p>
 
