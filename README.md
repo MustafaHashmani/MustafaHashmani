@@ -120,17 +120,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   5 repos             ███████████░░░░░░░░░░░░░░   45.45 % 
-HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-C                        2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python                   6 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
 
 
- Last Updated on 28/05/2025 18:46:29 UTC
+ Last Updated on 29/05/2025 18:47:28 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img src="https://wakatime.com/share/@MustafaHashmani/2fc0ea0c-6f8c-4e22-88a1-a015f6545ba2.svg" height=400> </p>
 
