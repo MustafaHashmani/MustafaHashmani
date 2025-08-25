@@ -71,7 +71,7 @@
 
 ⚒️ **WakaTime Stats Breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2045%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
@@ -132,7 +132,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2025 18:44:08 UTC
+ Last Updated on 25/08/2025 18:47:52 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img src="https://wakatime.com/share/@MustafaHashmani/2fc0ea0c-6f8c-4e22-88a1-a015f6545ba2.svg" height=400> </p>
 
