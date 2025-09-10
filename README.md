@@ -71,13 +71,15 @@
 
 ⚒️ **WakaTime Stats Breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -112,11 +114,11 @@ Sunday                   235 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Python                   10 hrs 7 mins       ███████████████░░░░░░░░░░   59.37 % 
-Text                     2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-INI                      1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Gherkin                  1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Bash                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Python                   9 hrs 48 mins       ██████████████░░░░░░░░░░░   57.55 % 
+Text                     2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+INI                      1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Gherkin                  1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 **I Mostly Code in Python** 
@@ -132,7 +134,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2025 18:42:50 UTC
+ Last Updated on 10/09/2025 18:45:34 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img src="https://wakatime.com/share/@MustafaHashmani/2fc0ea0c-6f8c-4e22-88a1-a015f6545ba2.svg" height=400> </p>
 
