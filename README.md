@@ -71,7 +71,7 @@
 
 ⚒️ **WakaTime Stats Breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-664%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-666%20hrs%2042%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.70%20million%20lines%20of%20code-blue?style=flat)
 
@@ -114,11 +114,11 @@ Sunday                   235 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Python                   7 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   40.01 % 
-JSON                     3 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-Other                    3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-SQL                      1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Python                   7 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   41.00 % 
+JSON                     4 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
+Other                    3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+SQL                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 ```
 
 **I Mostly Code in Python** 
@@ -134,7 +134,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/04/2026 19:54:58 UTC
+ Last Updated on 01/05/2026 19:46:53 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img src="https://wakatime.com/share/@MustafaHashmani/2fc0ea0c-6f8c-4e22-88a1-a015f6545ba2.svg" height=400> </p>
 
