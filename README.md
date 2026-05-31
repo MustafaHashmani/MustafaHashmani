@@ -114,11 +114,7 @@ Sunday                   235 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Python                   1 hr 41 mins        ████████████████░░░░░░░░░   62.49 % 
-SQL                      40 mins             ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
-Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Protocol Buffer          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -134,7 +130,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2026 19:47:19 UTC
+ Last Updated on 31/05/2026 19:46:36 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img src="https://wakatime.com/share/@MustafaHashmani/2fc0ea0c-6f8c-4e22-88a1-a015f6545ba2.svg" height=400> </p>
 
