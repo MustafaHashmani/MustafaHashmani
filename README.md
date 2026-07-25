@@ -71,6 +71,8 @@
 
 ⚒️ **WakaTime Stats Breakdown**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-930%20hrs%209%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.70%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -85,6 +87,40 @@
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                817 commits         █████████░░░░░░░░░░░░░░░░   34.14 % 
+🌆 Daytime                685 commits         ███████░░░░░░░░░░░░░░░░░░   28.63 % 
+🌃 Evening                535 commits         ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+🌙 Night                  356 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Tuesday                  159 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Wednesday                702 commits         ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+Thursday                 166 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Friday                   425 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Saturday                 406 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Sunday                   235 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Karachi
+
+💬 Programming Languages: 
+SQL                      8 hrs 40 mins       ███████████░░░░░░░░░░░░░░   43.24 % 
+Markdown                 5 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.02 % 
+Python                   3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Other                    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+HTML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -98,7 +134,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 19:53:08 UTC
+ Last Updated on 25/07/2026 19:40:47 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img src="https://wakatime.com/share/@MustafaHashmani/2fc0ea0c-6f8c-4e22-88a1-a015f6545ba2.svg" height=400> </p>
 
