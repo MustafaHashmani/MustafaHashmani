@@ -71,10 +71,6 @@
 
 ⚒️ **WakaTime Stats Breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-897%20hrs%2034%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-303%20hrs-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.70%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -89,65 +85,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                817 commits         █████████░░░░░░░░░░░░░░░░   34.14 % 
-🌆 Daytime                685 commits         ███████░░░░░░░░░░░░░░░░░░   28.63 % 
-🌃 Evening                535 commits         ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
-🌙 Night                  356 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Tuesday                  159 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Wednesday                702 commits         ███████░░░░░░░░░░░░░░░░░░   29.34 % 
-Thursday                 166 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Friday                   425 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Saturday                 406 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Sunday                   235 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Karachi
-
-💬 Programming Languages: 
-SQL                      9 hrs 33 mins       ███████████░░░░░░░░░░░░░░   45.69 % 
-Markdown                 4 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Python                   3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-Other                    1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-HTML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 18 hrs 33 mins (88.79%)
-
-✍️ 14,933 lines written by AI, 152 lines written by hand (98.99% AI-written)
-
-🔤 419,207,008 Input Tokens, 1,211,519 Output Tokens
-
-💵 $1464.90 Estimated AI Cost This Week
-
-🧠 13 AI Sessions, 95 AI Prompts
-
-Sonnet                   15,398 lines        ████████████████████░░░░░   79.38 % 
-Fable                    2,881 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Opus                     1,118 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.99% of written lines came from AI
-📚 Verbose Prompter — average 2,469 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 3.32% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -161,7 +98,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 20:02:18 UTC
+ Last Updated on 28/07/2026 19:58:43 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img src="https://wakatime.com/share/@MustafaHashmani/2fc0ea0c-6f8c-4e22-88a1-a015f6545ba2.svg" height=400> </p>
 
