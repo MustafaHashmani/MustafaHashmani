@@ -71,9 +71,9 @@
 
 ⚒️ **WakaTime Stats Breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-906%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-906%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-310%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-310%20hrs%207%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.70%20million%20lines%20of%20code-blue?style=flat)
 
@@ -116,35 +116,35 @@ Sunday                   235 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Python                   4 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   35.88 % 
-SQL                      2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Markdown                 2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Other                    1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-JSON                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Python                   3 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   35.81 % 
+Other                    2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Markdown                 1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+SQL                      1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+JSON                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 23 mins (69.73%)
+⏱ AI Coding Time: 7 hrs 7 mins (64.19%)
 
-✍️ 5,785 lines written by AI, 182 lines written by hand (96.95% AI-written)
+✍️ 2,310 lines written by AI, 179 lines written by hand (92.81% AI-written)
 
-🔤 124,761,179 Input Tokens, 494,304 Output Tokens
+🔤 68,194,297 Input Tokens, 282,649 Output Tokens
 
-💵 $387.99 Estimated AI Cost This Week
+💵 $207.23 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 64 AI Prompts
+🧠 9 AI Sessions, 50 AI Prompts
 
-Sonnet                   5,796 lines         █████████████████████████   100.00 % 
+Sonnet                   2,320 lines         █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.95% of written lines came from AI
-📚 Verbose Prompter — average 3,106 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 4.47% of changed lines were hand-edited
+🤖 AI-Driven — 92.81% of written lines came from AI
+📚 Verbose Prompter — average 4,084 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 10.36% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -160,7 +160,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 19:41:02 UTC
+ Last Updated on 02/08/2026 19:41:11 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img src="https://wakatime.com/share/@MustafaHashmani/2fc0ea0c-6f8c-4e22-88a1-a015f6545ba2.svg" height=400> </p>
 
