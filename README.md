@@ -116,32 +116,32 @@ Sunday                   235 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Python                   9 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   39.50 % 
-Other                    3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-SQL                      3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-YAML                     3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-JSON                     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Python                   8 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   39.17 % 
+SQL                      3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Other                    3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+YAML                     3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+JSON                     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 54 mins (77.16%)
+⏱ AI Coding Time: 17 hrs 38 mins (76.99%)
 
 ✍️ 2,608 lines written by AI, 2,138 lines written by hand (54.95% AI-written)
 
-🔤 6,666,751 Input Tokens, 1,058,535 Output Tokens
+🔤 6,598,547 Input Tokens, 1,031,458 Output Tokens
 
-💵 $173.25 Estimated AI Cost This Week
+💵 $170.98 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 172 AI Prompts
+🧠 21 AI Sessions, 165 AI Prompts
 
 Sonnet                   2,077 lines         ███████████████████░░░░░░   77.67 % 
 GPT                      597 lines           ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 54.95% of written lines came from AI
-📄 Detailed Prompter — average 1,198 characters per prompt
+📄 Detailed Prompter — average 1,188 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 45.57% of changed lines were hand-edited
 ```
@@ -159,7 +159,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 20:59:20 UTC
+ Last Updated on 14/09/2026 21:56:40 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img src="https://wakatime.com/share/@MustafaHashmani/2fc0ea0c-6f8c-4e22-88a1-a015f6545ba2.svg" height=400> </p>
 
