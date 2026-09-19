@@ -71,15 +71,15 @@
 
 ⚒️ **WakaTime Stats Breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C031%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C034%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-420%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-422%20hrs%2023%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.70%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 2.9 kB Used in GitHub's Storage 
+> 📦 2.8 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -116,35 +116,35 @@ Sunday                   235 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-YAML                     8 hrs 7 mins        ████████████░░░░░░░░░░░░░   47.53 % 
-Markdown                 2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Python                   2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-JSON                     1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Other                    1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+YAML                     8 hrs 44 mins       █████████████░░░░░░░░░░░░   50.41 % 
+Markdown                 3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+JSON                     1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+SQL                      1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Other                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 58 mins (34.94%)
+⏱ AI Coding Time: 6 hrs 21 mins (36.68%)
 
-✍️ 979 lines written by AI, 15,271 lines written by hand (6.02% AI-written)
+✍️ 1,291 lines written by AI, 15,287 lines written by hand (7.79% AI-written)
 
-🔤 5,072,186 Input Tokens, 341,880 Output Tokens
+🔤 4,275,145 Input Tokens, 321,131 Output Tokens
 
-💵 $60.45 Estimated AI Cost This Week
+💵 $41.56 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 61 AI Prompts
+🧠 10 AI Sessions, 46 AI Prompts
 
-GPT                      597 lines           ██████████████░░░░░░░░░░░   57.85 % 
-Sonnet                   435 lines           ███████████░░░░░░░░░░░░░░   42.15 % 
+Sonnet                   1,313 lines         █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 6.02% of written lines came from AI
-📄 Detailed Prompter — average 1,246 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 93.72% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 7.79% of written lines came from AI
+📚 Verbose Prompter — average 1,760 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 92.15% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -160,7 +160,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 21:03:51 UTC
+ Last Updated on 19/09/2026 20:52:33 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img src="https://wakatime.com/share/@MustafaHashmani/2fc0ea0c-6f8c-4e22-88a1-a015f6545ba2.svg" height=400> </p>
 
