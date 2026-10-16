@@ -116,33 +116,33 @@ Sunday                   235 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-SQL                      2 hrs 11 mins       ████████████░░░░░░░░░░░░░   46.37 % 
-Python                   1 hr 46 mins        █████████░░░░░░░░░░░░░░░░   37.53 % 
-Other                    32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Python                   42 mins             ██████████░░░░░░░░░░░░░░░   41.81 % 
+SQL                      38 mins             █████████░░░░░░░░░░░░░░░░   37.89 % 
+Other                    18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 29 mins (73.81%)
+⏱ AI Coding Time: 1 hr 12 mins (71.88%)
 
-✍️ 1,140 lines written by AI, 2 lines written by hand (99.82% AI-written)
+✍️ 266 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,408,660 Input Tokens, 311,697 Output Tokens
+🔤 650,214 Input Tokens, 70,502 Output Tokens
 
-💵 $27.58 Estimated AI Cost This Week
+💵 $9.71 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 31 AI Prompts
+🧠 1 AI Sessions, 10 AI Prompts
 
-Opus                     1,363 lines         █████████████████████████   100.00 % 
+Opus                     266 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.82% of written lines came from AI
-📄 Detailed Prompter — average 1,200 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 778 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.29% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -158,7 +158,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 21:34:42 UTC
+ Last Updated on 16/10/2026 21:27:17 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img src="https://wakatime.com/share/@MustafaHashmani/2fc0ea0c-6f8c-4e22-88a1-a015f6545ba2.svg" height=400> </p>
 
